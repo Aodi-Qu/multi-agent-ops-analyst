@@ -1,0 +1,9 @@
+﻿fastapi
+uvicorn[standard]
+langgraph
+langchain-core
+langchain-community
+chromadb
+sse-starlette
+pydantic
+python-dotenv
